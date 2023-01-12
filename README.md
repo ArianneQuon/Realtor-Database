@@ -8,5 +8,6 @@ as one of the three aforementioned options, then proceed to each of their respec
 can view, add, or edit properties, manage clients, and perfrom various queries through the interface.
 
 Project access: https://www.students.cs.ubc.ca/~aquon01/homepage.php
+  
 *code is connected to each contributor's MySQL account, and so queries may return no results* 
 </p>
