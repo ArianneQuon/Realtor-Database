@@ -9,5 +9,5 @@ can view, add, or edit properties, manage clients, and perfrom various queries t
 
 Project access: https://www.students.cs.ubc.ca/~aquon01/homepage.php
   
-*code is connected to each contributor's MySQL account, and so queries may return no results* 
+* *code is connected to each contributor's MySQL account, and so queries may return no results* 
 </p>
